@@ -13,5 +13,6 @@
     </head>
     <body>
         <h1>Proyecto Biblioteca en construcción</h1>
+        <jsp:forward page="listarLibros.jsp"></jsp:forward>
     </body>
 </html>
