@@ -728,7 +728,7 @@
 				<div class="footer-inner">
 					<div class="footer-content">
 						<span class="bigger-120">
-							Juan Luis Goldracena &copy; 2018
+							Juan Luis Goldaracena &copy; 2018
 						</span>
 
 						&nbsp; &nbsp;
