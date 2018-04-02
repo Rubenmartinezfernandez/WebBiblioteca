@@ -9,10 +9,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Biblioteca Inicio</title>
     </head>
     <body>
-        <h1>Proyecto Biblioteca en construcción</h1>
+        <!--<h1>Proyecto Biblioteca</h1>-->
         <jsp:forward page="listarLibros.jsp"></jsp:forward>
     </body>
 </html>
