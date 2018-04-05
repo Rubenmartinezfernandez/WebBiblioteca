@@ -54,7 +54,8 @@ public final class listarLibros_jsp extends org.apache.jasper.runtime.HttpJspBas
       out.write("\t<head>\r\n");
       out.write("\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\" />\r\n");
       out.write("\t\t<meta charset=\"utf-8\" />\r\n");
-      out.write("\t\t<title>Gestión de libros</title>\r\n");
+      out.write("                \r\n");
+      out.write("\t\t<title>Listar Libros</title>\r\n");
       out.write("\r\n");
       out.write("\t\t<meta name=\"description\" content=\"Juan Luis Goldaracena- TecaSoft\" />\r\n");
       out.write("\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0\" />\r\n");

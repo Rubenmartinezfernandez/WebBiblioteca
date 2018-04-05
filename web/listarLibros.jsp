@@ -1,5 +1,5 @@
 <%-- 
-    Document   : ListarLibros
+    Document   : listarLibros
     Created on : 01-abr-2018, 17:32:12
     Author     : Juan Luis Goldaracena
 --%>
@@ -10,7 +10,8 @@
 	<head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 		<meta charset="utf-8" />
-		<title>Gestión de libros</title>
+                
+		<title>Lista de Libros</title>
 
 		<meta name="description" content="Juan Luis Goldaracena- TecaSoft" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />

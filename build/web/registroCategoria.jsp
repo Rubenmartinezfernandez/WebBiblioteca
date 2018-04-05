@@ -1,5 +1,5 @@
 <%-- 
-    Document   : ListarLibros
+    Document   : registroCategorias
     Created on : 01-abr-2018, 17:32:12
     Author     : Juan Luis Goldaracena
 --%>
@@ -11,13 +11,12 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 		<meta charset="utf-8" />
                 
-		<title>Registro Categoría</title>
+		<title>Registrar Categoría</title>
 
 		<meta name="description" content="Juan Luis Goldaracena- TecaSoft" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
 
                 <%@include file="css.jsp" %>
-
 	</head>
 
 	<body class="no-skin">
